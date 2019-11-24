@@ -1,0 +1,3 @@
+[submodule "Hangouts"]
+	path = Hangouts
+	url = git@github.com:lotnee/Comp4920.git
